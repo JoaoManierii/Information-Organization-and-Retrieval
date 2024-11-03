@@ -1,3 +1,4 @@
+3
 base1/a.txt
 base1/b.txt
 base1/c.txt
